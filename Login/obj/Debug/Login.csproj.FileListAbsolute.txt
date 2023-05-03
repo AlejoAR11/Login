@@ -1,0 +1,14 @@
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\MaterialSkin.dll
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.frmHome.resources
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.frmSigin.resources
