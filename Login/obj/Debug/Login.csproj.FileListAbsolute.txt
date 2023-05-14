@@ -12,3 +12,12 @@ C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
 C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.exe
 C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.pdb
 C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.frmSigin.resources
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\EntityFramework.dll
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\System.Data.SQLite.dll
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\EntityFramework.xml
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Capo\source\repos\Login\Login\bin\Debug\System.Data.SQLite.xml
+C:\Users\Capo\source\repos\Login\Login\obj\Debug\Login.frmCRUD.resources

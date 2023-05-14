@@ -50,6 +50,7 @@
             // 
             // btnLogin
             // 
+            this.btnLogin.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnLogin.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.btnLogin.Depth = 0;
             this.btnLogin.HighEmphasis = true;
@@ -69,6 +70,7 @@
             // 
             // btnSigin
             // 
+            this.btnSigin.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnSigin.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.btnSigin.Depth = 0;
             this.btnSigin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -79,7 +81,7 @@
             this.btnSigin.MouseState = MaterialSkin.MouseState.HOVER;
             this.btnSigin.Name = "btnSigin";
             this.btnSigin.NoAccentTextColor = System.Drawing.Color.Empty;
-            this.btnSigin.Size = new System.Drawing.Size(123, 36);
+            this.btnSigin.Size = new System.Drawing.Size(116, 36);
             this.btnSigin.TabIndex = 2;
             this.btnSigin.Text = "Registrarse";
             this.btnSigin.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Outlined;
@@ -96,7 +98,7 @@
             this.txtUser.BeepOnError = false;
             this.txtUser.CutCopyMaskFormat = System.Windows.Forms.MaskFormat.IncludeLiterals;
             this.txtUser.Depth = 0;
-            this.txtUser.Font = new System.Drawing.Font("Roboto", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            this.txtUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txtUser.HidePromptOnLeave = false;
             this.txtUser.HideSelection = true;
             this.txtUser.InsertKeyMode = System.Windows.Forms.InsertKeyMode.Default;
@@ -175,7 +177,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(340, 391);
+            this.ClientSize = new System.Drawing.Size(340, 439);
             this.Controls.Add(this.txtPass);
             this.Controls.Add(this.txtUser);
             this.Controls.Add(this.btnSigin);
